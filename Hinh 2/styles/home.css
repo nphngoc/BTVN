@@ -1,0 +1,32 @@
+#ngoc {
+    font-size: 20px;
+    width: 100vw;
+    height: fit-content;
+    padding: 30px;
+    border: 1px solid rgba(195, 150, 245, 0.540);
+    background-color: rgba(195, 150, 245, 0.540);
+    text-align: center;
+}
+
+#bun {
+    width: 100vw;
+    height: fit-content;
+    border: 1px solid rgb(100,15,165);
+    background-color: rgb(100,15,165);
+}
+
+#bun > ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-left: auto;
+    margin-right: 50vw;
+}
+
+#life {
+    font-size: 20px;
+}
+
+#technology {
+    font-size: 20px;
+}
